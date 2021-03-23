@@ -1,0 +1,9 @@
+C:\Users\onuru\source\repos\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\onuru\source\repos\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\onuru\source\repos\DataAccess\bin\Debug\Entity.dll
+C:\Users\onuru\source\repos\DataAccess\bin\Debug\Entity.pdb
+C:\Users\onuru\source\repos\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\onuru\source\repos\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\onuru\source\repos\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\onuru\source\repos\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\onuru\source\repos\DataAccess\obj\Debug\DataAccess.pdb
